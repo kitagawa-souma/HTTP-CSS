@@ -6,7 +6,7 @@
     text-align:  center;    /* 文字中央寄せ */
     padding:  150px;        /* 余白指定 */
     border: solid 2px;      /* 枠線指定 */
-    background-image: url(アルタイル.jpg);    /* 背景画像指定 */
+    background-image: url(bg.jpg);    /* 背景画像指定 */
     background-attachment:scroll;
     background-size: cover;
     background-repeat: no-repeat;
