@@ -1,0 +1,29 @@
+.bg_test {
+    margin-bottom: 20px;
+    width: 1578px;
+    height: 2048px;
+    background-position: center center;
+    text-align:  center;    /* 文字中央寄せ */
+    padding:  150px;        /* 余白指定 */
+    border: solid 2px;      /* 枠線指定 */
+    background-image: url(アルタイル.jpg);    /* 背景画像指定 */
+    background-attachment:scroll;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.bg_right {
+    background-position: right;
+    margin-bottom: 20px;
+    background-color: yellow;
+    text-align:  center;    /* 文字中央寄せ */
+    padding:  150px;        /* 余白指定 */
+    border: solid 2px; 
+}
+
+.body {
+    font-size: 32px;
+    color:#ff0000;
+    margin-left : 100px;
+    margin-right : 100px;
+}
